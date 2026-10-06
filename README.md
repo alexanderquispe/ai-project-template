@@ -8,7 +8,7 @@
 > find the paper, the slides, the code and the Lean proofs in the same place.
 >
 > Dates, page limits and what is graded are in the
-> [project issue](https://github.com/alexanderquispe/AI-Econ-Modeling/issues?q=is%3Aissue+label%3Aproject)
+> [project issue](https://github.com/alexanderquispe/AI-Econ-Modeling/issues/7)
 > of the course repository. **Delete this block and the next two sections when
 > you write your own README.**
 
